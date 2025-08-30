@@ -1,12 +1,20 @@
-# 🐍 Python Projects Collection
+# 🐍 Python Projects
 
-A collection of Python mini-projects organized by difficulty.
-
-## 📂 Categories
+This repository contains Python projects organized by difficulty level:
 - **Basic**
 - **Medium**
-- **Advanced**
+- **Hard / Advanced** (coming soon)
 
-## 🔹 Featured (so far)
-- [Basic Calculator](./Basic/calculator_basic.py)
-- [Calculator Game (Improved)](./Medium/calculator_game.py)
+---
+
+## 📂 Project List
+
+### 🔹 Basic
+- [Calculator Basic](Basic/Calculator_Basic)
+
+### 🔹 Medium
+- [Calculator Game](Medium/Calculator_Game)  
+- [To-Do List](Medium/To_Do_List)
+
+---
+More projects will be added soon 🚀
